@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">New Tip Calculator</string>
+    <string-array name="split_array">
+        <item>No</item>
+        <item>2 ways</item>
+        <item>3 ways</item>
+        <item>4 ways</item>
+    </string-array>
+    <string name="billAmount_string_text">100</string>
+    <string name="percent_string_text">15</string>
+    <string name="tip_string_text">15</string>
+    <string name="total_string_text">115</string>
+    <string name="perPerson_string_text">0</string>
+
+    <string name="about_text">This version of the Tip Calculator app calculates all tips on the post-tax bill total.</string>
+    <string name="remember_percent_summary">Remembers Most Recent Tip Percent</string>
+    <string name="remember_percent_title">Remember Tip Percent</string>
+    <string name="rounding_title">Rounding</string>
+    <string name="rounding_summary">Sets calculation rounding option</string>
+    <string name="rounding_default">None</string>
+
+    <string-array name="rounding_keys">
+        <item>None</item>
+        <item>Tip</item>
+        <item>Total</item>
+    </string-array>
+    <string-array name="rounding_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
